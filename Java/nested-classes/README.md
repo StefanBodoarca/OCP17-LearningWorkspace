@@ -1,4 +1,4 @@
-Walking through the examples related to ¨Creating Nested Classes¨ from the "OCP Oracle Certified Professional Java SE 11 Programmer II Sutdy Guide".
+Walking through the examples related to ¨Creating Nested Classes¨ from the "OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide".
 
 page 52/758
 

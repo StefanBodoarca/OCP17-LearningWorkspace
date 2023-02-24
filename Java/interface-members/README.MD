@@ -1,4 +1,4 @@
-Walking through the examples related to ¨Understanding Interface Members¨ from the "OCP Oracle Certified Professional Java SE 11 Programmer II Sutdy Guide".
+Walking through the examples related to ¨Understanding Interface Members¨ from the "OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide".
 
 page 59/758
 
