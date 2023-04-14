@@ -1,4 +1,4 @@
-package com.ro.inheritance.test;
+package classdesign.test;
 
 abstract class Nocturnal {
     abstract boolean isBlind();
