@@ -1,4 +1,4 @@
-package com.ro.annotations;
+package annotations;
 
 class Bear {}
 enum Size {SMALL, MEDIUM, LARGE}

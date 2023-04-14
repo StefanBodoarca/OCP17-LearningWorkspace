@@ -1,4 +1,4 @@
-package com.ro.annotations;
+package annotations;
 
 /*
  - if the annotation does not contain any elements it is referred

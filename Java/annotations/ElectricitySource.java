@@ -1,4 +1,4 @@
-package com.ro.annotations;
+package annotations;
 
 public @interface ElectricitySource {
     public int voltage();
