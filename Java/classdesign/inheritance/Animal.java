@@ -36,15 +36,16 @@ class Hippo extends Animal {
 
 class Main {
     public static void main(String[] args) {
-        /*
+
         Reptile r = new Reptile();
         System.out.println(r.getParentSpeed());
-        */
+        System.out.println(r.getSpeed());
 
-        System.out.print("C");
-        new Hippo();
-        new Hippo();
-        new Hippo();
+
+//        System.out.print("C");
+//        new Hippo();
+//        new Hippo();
+//        new Hippo();
     }
 }
 
