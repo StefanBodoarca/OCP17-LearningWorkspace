@@ -18,7 +18,18 @@ class Person {
     }
 }
 
-record Student(String school, String major, String name, int age) {}
+record Student(String school, String major, String name, int age) {
+    public Student(String school, String major, String name, int age) {
+        if(age <= 0) {
+            throw new IllegalArgumentException();
+        }
+        this.age = age;
+        school = school.toUpperCase();
+        this.school = school;
+        this.major = major + name;
+        this.name = name;
+    }
+}
 
 public class TestRecords {
 }

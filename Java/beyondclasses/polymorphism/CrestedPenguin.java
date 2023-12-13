@@ -6,7 +6,7 @@ class Penguin {
     }
 
     public void printInfo() {
-        System.out.println(this.getHeight());
+        System.out.println(getHeight());
     }
 }
 
@@ -15,7 +15,13 @@ public class CrestedPenguin extends Penguin {
         return 8;
     }
 
+    /*
+    public void printInfo() {
+        System.out.println(getHeight());
+    }
+     */
+
     public static void main(String[] args) {
-        CrestedPenguin crestedPenguin = new CrestedPenguin();
+        new CrestedPenguin().printInfo();
     }
 }
